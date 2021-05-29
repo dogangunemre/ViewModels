@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Ohtap ECommerce Domain Models Core">
+      <HintPath>..\..\Libraries\Ohtap ECommerce Domain Models Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Ohtap ECommerce Domain Models Objects">
+      <HintPath>..\..\Libraries\Ohtap ECommerce Domain Models Objects.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
